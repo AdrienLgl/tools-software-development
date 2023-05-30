@@ -8,3 +8,4 @@ Lettuce
 Tomatoes
 Onions – spring, white, regular and red
 Garlic
+Water (from local repo)
