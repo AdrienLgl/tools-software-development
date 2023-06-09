@@ -1,6 +1,0 @@
-new file created from github
-
-
-
-edit file from local to create a merge conflict
-edit file to create a merge conflict

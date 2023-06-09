@@ -1,0 +1,5 @@
+# FAQ
+
+## How to begin ?
+
+...
