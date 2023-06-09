@@ -13,7 +13,6 @@ Welcome to the documentation for my project. Below is a summary of the available
 - [Configuration](configuration.md)
 - [Usage Examples](usage-examples.md)
 - [FAQ](faq.md)
-- [Contributing](contributing.md)
 
 Feel free to click on the links above to access detailed information on each topic.
 
